@@ -1,0 +1,39 @@
+{
+  "name": "restaurantapi",
+  "version": "1.0.0",
+  "description": "API for a restaurant",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vindu-ya/RestaurantAPI.git"
+  },
+  "keywords": [
+    "express",
+    "mongodb",
+    "jsonwebtoken"
+  ],
+  "author": "Vindula Yasas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vindu-ya/RestaurantAPI/issues"
+  },
+  "homepage": "https://github.com/vindu-ya/RestaurantAPI#readme",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "config": "^1.28.1",
+    "express": "^4.16.2",
+    "jsonwebtoken": "^8.1.0",
+    "mongoose": "^4.13.7",
+    "mongoose-deep-populate": "^3.0.0",
+    "mongoose-sequence": "^4.0.1",
+    "morgan": "^1.9.0",
+    "nexmo": "^2.1.1",
+    "nodemailer": "^4.4.1",
+    "nodemon": "^1.13.3"
+  }
+}

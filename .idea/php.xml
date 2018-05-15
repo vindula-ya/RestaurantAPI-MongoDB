@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/kkszymanowski/traitor" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/laracasts/flash" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/laravelcollective/html" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/league/flysystem-aws-s3-v3" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/mtdowling/cron-expression" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/mtdowling/jmespath.php" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/nwidart/laravel-modules" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/phenx/php-font-lib" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/phenx/php-svg-lib" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/sabberworm/php-css-parser" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/santigarcor/laratrust" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/symfony/class-loader" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/aws/aws-sdk-php" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/barryvdh/laravel-dompdf" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/barryvdh/laravel-ide-helper" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/barryvdh/reflection-docblock" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/baum/baum" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/composer" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/dompdf/dompdf" />
+    </include_path>
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="CUSTOM_LOADER" custom_loader_path="$PROJECT_DIR$/../../PHP/InstantVnetPlus/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>

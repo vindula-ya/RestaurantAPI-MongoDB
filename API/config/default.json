@@ -1,0 +1,19 @@
+{
+    "database": "mongodb://user:1234@ds042687.mlab.com:42687/restaurant",
+    "email": {
+        "service": "gmail",
+        "auth": {
+            "user": "restaurantapi.sliit@gmail.com",
+            "pass": "rest@123"
+        }
+    },
+    "portNo": 8080,
+    "saltRounds": 10,
+    "senderNumber": "+94712442333",
+    "sms": {
+        "apiKey": "2508cd65",
+        "apiSecret": "df40f99c09ea8756"
+    },
+    "tokenExpireTime": "5m",
+    "tokenSecret": "superSecret"
+}

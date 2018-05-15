@@ -1,0 +1,43 @@
+html, body
+{
+    margin-top: 40px;
+}
+
+body{
+    background-color: transparent;
+}
+
+.main-heading-on-landing
+{
+    margin: 0 auto;
+    text-align: center;
+    background-color: transparent !important;
+    font-family: "Comic Sans MS";
+    font-size: 4em;
+}
+.main-heading-on-landing h3
+{
+    font-size: 1.2em;
+    margin-top: 50px;
+    color: white;
+}
+
+.marketing {
+    background-color: whitesmoke;
+    margin: 5px;
+    width: auto;
+    height: auto;
+}
+
+.well-adjusted
+{
+    text-align: center;
+    margin: 0 auto;
+}
+.well:hover {
+    background-color: rgba(255, 15, 0, 0.55);
+}
+
+.well:hover .disabled {
+    cursor: not-allowed;
+}
